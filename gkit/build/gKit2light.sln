@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02TPTerrain", "02TPTerrain.vcxproj", "{40C547FA-AC7A-C0EF-356F-BAC6A123B7F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mesh_viewer", "mesh_viewer.vcxproj", "{23327646-8FE7-EE3B-18DC-E8128490E53F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		debug|Win32 = debug|Win32
+		debug|x64 = debug|x64
+		release|Win32 = release|Win32
+		release|x64 = release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C547FA-AC7A-C0EF-356F-BAC6A123B7F3}.debug|Win32.ActiveCfg = debug x32|x64
+		{40C547FA-AC7A-C0EF-356F-BAC6A123B7F3}.debug|Win32.Build.0 = debug x32|x64
+		{40C547FA-AC7A-C0EF-356F-BAC6A123B7F3}.debug|x64.ActiveCfg = debug|x64
+		{40C547FA-AC7A-C0EF-356F-BAC6A123B7F3}.debug|x64.Build.0 = debug|x64
+		{40C547FA-AC7A-C0EF-356F-BAC6A123B7F3}.release|Win32.ActiveCfg = release x32|x64
+		{40C547FA-AC7A-C0EF-356F-BAC6A123B7F3}.release|Win32.Build.0 = release x32|x64
+		{40C547FA-AC7A-C0EF-356F-BAC6A123B7F3}.release|x64.ActiveCfg = release|x64
+		{40C547FA-AC7A-C0EF-356F-BAC6A123B7F3}.release|x64.Build.0 = release|x64
+		{23327646-8FE7-EE3B-18DC-E8128490E53F}.debug|Win32.ActiveCfg = debug x32|x64
+		{23327646-8FE7-EE3B-18DC-E8128490E53F}.debug|Win32.Build.0 = debug x32|x64
+		{23327646-8FE7-EE3B-18DC-E8128490E53F}.debug|x64.ActiveCfg = debug|x64
+		{23327646-8FE7-EE3B-18DC-E8128490E53F}.debug|x64.Build.0 = debug|x64
+		{23327646-8FE7-EE3B-18DC-E8128490E53F}.release|Win32.ActiveCfg = release x32|x64
+		{23327646-8FE7-EE3B-18DC-E8128490E53F}.release|Win32.Build.0 = release x32|x64
+		{23327646-8FE7-EE3B-18DC-E8128490E53F}.release|x64.ActiveCfg = release|x64
+		{23327646-8FE7-EE3B-18DC-E8128490E53F}.release|x64.Build.0 = release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
